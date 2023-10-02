@@ -1,0 +1,88 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "frontend",
+            "favorita": true
+        },
+        {
+            "id": 2,
+            "nome": "backend",
+            "favorita": false
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "5 Front-end Development Skills to Land Your First Job",
+            "capa": "https://i.ytimg.com/vi/-_X6PhkjpzU/maxresdefault.jpg",
+            "linkEmbed": "https://www.youtube.com/embed/-_X6PhkjpzU?si=A8EdLNxIfR8peYEI",
+            "link": "https://www.youtube.com/watch?v=-_X6PhkjpzU",
+            "descricao": "Everything you need to know in a simple path to get hired fast. This video is the second part of a Web Development series. In the first part, we covered 5 facts about web development.",
+            "categoria": "frontend"
+        },
+        {
+            "id": 2,
+            "titulo": "O que é front-end?",
+            "capa": "https://i.ytimg.com/vi/keosm3oqqXk/maxresdefault.jpg",
+            "linkEmbed": "https://www.youtube.com/embed/keosm3oqqXk?si=f7W8maNWsGgwek14",
+            "link": "https://www.youtube.com/watch?app=desktop&v=keosm3oqqXk",
+            "descricao": "Se você está interessado em saber o que é front-end e o que um desenvolvedor front-end faz, este vídeo te explica exatamente isso. Neste vídeo é explicado a importância do HTML, CSS e JavaScript (esse último em especial) no dia a dia do programador front-end. Interessado? Então bora mergulhar nesse assunto!",
+            "categoria": "frontend"
+        },
+        {
+            "id": 3,
+            "titulo": "Aula 1 - Como começar do ZERO no Front-end!",
+            "capa": "https://i.ytimg.com/vi/wbNFh45pceI/sddefault.jpg",
+            "linkEmbed": "https://www.youtube.com/embed/wbNFh45pceI?si=tF4EYGwclP00EER0",
+            "link": "https://www.youtube.com/watch?v=wbNFh45pceI",
+            "descricao": "Começando na área de desenvolvimento frontend e se sente perdido? Assista a esse vídeo que explica tudo que você precisa saber para começar em FrontEnd do Zero",
+            "categoria": "frontend"
+        },
+        {
+            "id": 4,
+            "titulo": "Como se tornar um desenvolvedor FRONTEND?",
+            "capa": "https://i.ytimg.com/vi/LqXqBgIUbJg/maxresdefault.jpg",
+            "linkEmbed": "https://www.youtube.com/embed/LqXqBgIUbJg?si=bA_HofHgdas64sV5",
+            "link": "https://www.youtube.com/watch?v=LqXqBgIUbJg",
+            "descricao": "Mas o que faz um desenvolvedor frontend? Um desenvolvedor frontend é responsável por codificar interfaces para web, que é justamente a camada de interação e experiência do usuário. Então a parte visível de um site ou sistema, é a sua interface, que é responsabilidade de um desenvolvedor frontend. Nesse video reuni tudo que você precisa saber para se tornar um desenvolvedor FRONTEND!",
+            "categoria": "frontend"
+        },
+        {
+            "id": 5,
+            "titulo": "Introdução ao Backend",
+            "capa": "https://i.ytimg.com/vi/kj1owVJWqSw/maxresdefault.jpg",
+            "linkEmbed": "https://www.youtube.com/embed/kj1owVJWqSw?si=tZ7lKy4mi5XPYUKU",
+            "link": "https://www.youtube.com/watch?v=kj1owVJWqSw",
+            "descricao": "Introdução ao desenvolvimento Backend",
+            "categoria": "backend"
+        },
+        {
+            "id": 6,
+            "titulo": "Guia definitivo de back-end: Guia de estudos",
+            "capa": "https://i.ytimg.com/vi/TeY7jRDlrgQ/maxresdefault.jpg",
+            "linkEmbed": "https://www.youtube.com/embed/TeY7jRDlrgQ?si=VZHbdQO3PrUUCl69",
+            "link": "https://www.youtube.com/watch?v=TeY7jRDlrgQ",
+            "descricao": "Uma das áreas com a média salárial mais alta da programação é o back-end. O profissional que exerce esse papel no desenvolvimento de um software é responsável por criar a aplicação lógica (API) que manipula o banco de dados, de acordo com a regra de negócio pré estabelecida. Pode ser responsável também pela configuração o ambiente da nuvem para hospedar esta aplicação.",
+            "categoria": "backend"
+        },
+        {
+            "id": 7,
+            "titulo": "Como se tornar um desenvolvedor BACKEND?",
+            "capa": "https://i.ytimg.com/vi/wXMlMsDvk2M/sddefault.jpg",
+            "linkEmbed": "https://www.youtube.com/embed/wXMlMsDvk2M?si=Y6eGTGfsm6XG58d2",
+            "link": "https://www.youtube.com/watch?v=wXMlMsDvk2M",
+            "descricao": "Assim como qualquer nicho da programação, a base é muito importante. Se no frontend talvez você comece pelo html e css e só depois comece na lógica, no Backend esse passo vai ser o passo primordial. Então aprender sobre lógica e programação é o primeiro passo que você deve se esforçar para criar uma boa base, especialmente quando o assunto é algoritmos.",
+            "categoria": "backend"
+        },
+        {
+            "id": 8,
+            "titulo": "Firebase x Supabase: Qual é o melhor backend?",
+            "capa": "https://i.ytimg.com/vi/v4jOIQvze-0/maxresdefault.jpg",
+            "linkEmbed": "https://www.youtube.com/embed/v4jOIQvze-0?si=8l6pT_3uACdprryb",
+            "link": "https://www.youtube.com/watch?v=v4jOIQvze-0",
+            "descricao": "Decidir entre firebase e supabase pode ser uma tarefa difícil pois ambos os serviços de backend são muito completos e robustos. Nesse vídeos vamos analisar em detalhes qual é o melhor backend para seu aplicativo. No final vamos dar nossa opinião sobre qual é o mais indicado - Firebase ou Supabase.",
+            "categoria": "backend"
+        }
+    ]
+}
